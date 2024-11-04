@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467627292393",
+    "project_id": "lukrativer-wetten",
+    "storage_bucket": "lukrativer-wetten.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467627292393:android:7ea09e5b745f76282d2278",
+        "android_client_info": {
+          "package_name": "com.example.lukrativerWetten"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChPG49RX-jtSWITcFsuwOe6snUQLcBuTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
